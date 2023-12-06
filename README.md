@@ -5,6 +5,7 @@
 ### Create a PDF that contains all the information.
 ### Send everything to your email
 
+#### Built using Next JS , react-hook-form , object-to-formdata , Trigger.dev , Typescript and OpenAI
 ## Trigger.Dev 
 
 Trigger.dev is a platform, SDK, and API for building and running background jobs in your codebase. It offers various features like:
