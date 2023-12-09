@@ -1,0 +1,42 @@
+{
+  "name": "resumegpt",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@trigger.dev/nextjs": "^2.3.3",
+    "@trigger.dev/openai": "^2.3.3",
+    "@trigger.dev/react": "^2.3.3",
+    "@trigger.dev/resend": "^2.3.3",
+    "@trigger.dev/sdk": "^2.3.3",
+    "axios": "^1.6.2",
+    "emitter": "^0.0.5",
+    "geist": "^1.2.0",
+    "jspdf": "^2.5.1",
+    "next": "14.0.3",
+    "object-to-formdata": "^4.5.1",
+    "pdfkit": "^0.14.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hook-form": "^7.48.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  },
+  "trigger.dev": {
+    "endpointId": "resume-Znqi"
+  }
+}
