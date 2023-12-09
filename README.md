@@ -1,5 +1,8 @@
 # Resume.GPT---Open-AI-based-Resume-Generator
 
+<img width="949" alt="image" src="https://github.com/mainak0907/Resume.GPT---Open-AI-based-Resume-Generator/assets/88925745/9787af73-9ce7-4e6e-9c0e-6a6a66a23edf">
+
+
 ### Add basic details such as First name, last name, and last places of work.
 ### Generate details such as Profile Summary, Work History, and Job Responsibilities.
 ### Create a PDF that contains all the information.
